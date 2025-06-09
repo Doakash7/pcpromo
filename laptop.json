@@ -1,0 +1,34 @@
+[
+  {
+    "name": "DELL LATITUDE 5400",
+    "description": "Un pc fluide parfait pour étudiants, freelancers, télétravailleurs, etc.",
+    "images": [
+      "images/DELL LATITUDE 5400-1.jpg",
+      "images/DELL LATITUDE 5400-2.jpg",
+      "images/DELL LATITUDE 5400-3.jpg"
+    ],
+    "link": "https://www.pay.moneyfusion.net/dell-latitude-5400_1749468542391"
+  },
+  {
+    "name": "Lenovo ThinkPad T470s",
+    "description": "Un excellent rapport qualité/prix. Performance de haut niveau pour les pros.",
+    "images": [
+      "images/LENOVO THINKPAD T470s-1.jpg",
+      "images/LENOVO THINKPAD T470s-2.jpg",
+      "images/LENOVO THINKPAD T470s-3.png",
+      "images/LENOVO THINKPAD T470s-4.png"
+    ],
+    "link": "https://www.pay.moneyfusion.net/lenovo-thinkpad-t470s_1749468886358"
+  },
+  {
+    "name": "HP EliteBook 830 G6",
+    "description": "Une vraie bête de course, léger et facile à transporter.",
+    "images": [
+      "images/HP EliteBook 830G-1.jpg",
+      "images/HP EliteBook 830G-2.jpg",
+      "images/HP EliteBook 830G-3.png",
+      "images/HP EliteBook 830G-4.png"
+    ],
+    "link": "https://www.pay.moneyfusion.net/hp-elitebook-830-g6_1749469149867"
+  }
+]
